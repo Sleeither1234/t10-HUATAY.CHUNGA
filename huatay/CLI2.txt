@@ -1,0 +1,10 @@
+el valor de la suma de los numeros es :66
+El valor de la resta de los valores dados es: 22
+El valor de la resta de los valores dados es: -44
+El valor de la resta de los valores dados es: -53
+el valor de la suma de los numeros 12 y 34 es :46
+el valor de la suma de los numeros 12 y 34 es :46
+El valor de la resta de los valores 34 y 12 es: 22
+el valor de la suma de los numeros 32 y 2 es :34
+El valor de la multiplicacion de los valores 23 y 4 es: 92
+EL valor de la division de los valores 34 y 5 es:6.8

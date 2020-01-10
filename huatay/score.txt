@@ -1,0 +1,13 @@
+
+nombre: angel
+Su score final es: 750
+nombre: angel
+Su score final es: 1000
+nombre: angel
+Su score final es: 750
+nombre: angel
+Su score final es: 500
+nombre: angel
+Su score final es: 750
+nombre: angel
+Su score final es: 250
