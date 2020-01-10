@@ -1,0 +1,3 @@
+# t10-HUATAY.CHUNGA
+t10-programacion1-huatay.chunga
+INTEGRANTES: HUATAY CHUNGA
